@@ -1,6 +1,6 @@
 # Bancos-de-Dados-SQL-e-NoSQL-na-Engenharia-de-Dados  
 
-**Compreender o papel dos Bancos de Dados Relacionais SQL e NoSQL**
+**Compreender o papel dos Bancos de Dados SQL e NoSQL**
 
 _"O principio básico de um Banco de Dados é armazenar informações de um sistema.”_
 
